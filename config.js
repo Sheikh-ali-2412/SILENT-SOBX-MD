@@ -12,7 +12,7 @@ module.exports = {
     MODE: process.env.MODE || "private",
     AUTO_VOICE: process.env.AUTO_VOICE || "true",
     AUTO_STICKER: process.env.AUTO_STICKER || "false",
-    AUTO_REPLY: process.env.AUTO_REPLY || "false",
+    AUTO_REPLY: process.env.AUTO_REPLY || "true",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg",
     ALIVE_MSG: process.env.ALIVE_MSG || "HI DEAR I'M ONLINE I'M 𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ WHATSAPP BOT 😊♻️",
     ANTI_LINK: process.env.ANTI_LINK || "true",
