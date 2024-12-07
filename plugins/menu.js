@@ -220,7 +220,7 @@ let madeMenu = `*╭┈───────────────•*
 *❒⁠⁠⁠⁠▭▬▭▬▭▬▭▬▭▬▭▬▭❒*⁠⁠⁠⁠
 
 ┏━━━━━━━━━━━━━━━━━━━◆
-*https://chat.whatsapp.com/BobH0xeN4YQ6QAMELpk4i0*
+*https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B*
 ┗━━━━━━━━━━━━━━━━━━━◆
 
 *•────────────•⟢*
